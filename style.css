@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    background-image: url(img/restaurant-690569_1920.jpg);
+    background-repeat: repeat-y;
+   text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+a{  font-size: larger;
+    font-weight: bold;
+    
+   color: aliceblue; 
+   
+
+}
+h1{padding: 4px;
+color: aliceblue;
+}
+.disc{
+    padding: 8px;
+    margin: 4px;
+}
+.content{ display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(179, 143, 143);
+    height: auto;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.DynamicContent{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(179, 143, 143);
+    width: 90%;
+    height: auto;
+    margin: 5%;
+    
+}
+.secret{
+    padding: 3%;
+}
+footer{
+    margin: 4%;
+    padding: 1%;
+}

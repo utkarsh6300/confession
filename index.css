@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    background-image: url(img/buildings-1245953_1920.jpg);
+    background-repeat: repeat-y;
+    
+}
+header{
+    text-align: center;
+} 
+footer{text-align: center;}
+
+form{  
+    text-align: center;
+    padding: 16px;
+}
+#confess{ padding: 6px;
+color: rgb(23, 243, 115);
+   font-size: large;
+    height: 60vh;
+    width: 40%;
+}
+#sub{ font-size: large;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    color: brown;
+    padding: 6px;
+    height: 7vh;
+    width: 40%;
+    cursor: pointer;
+}
+a{  font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+   color: aliceblue; 
+   text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
